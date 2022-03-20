@@ -1,0 +1,9 @@
+@media (max-width: 992px) {
+    .channel {
+        display: inline-grid;
+    }
+}
+
+.trackName {
+    font-family: cursive;
+}
